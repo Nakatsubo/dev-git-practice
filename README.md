@@ -1,2 +1,5 @@
 すべての設定を一度リセットします
 topicブランチとmasterブランチの内容をmergeします
+mergeしたtopicブランチの内容を、remoteのtopicブランチへpushします
+
+
