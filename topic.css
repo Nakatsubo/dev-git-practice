@@ -1,1 +1,2 @@
 @charset 'utf-8';
+@mixin color-green { color: #00ff00; }
