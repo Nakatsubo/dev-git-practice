@@ -1,2 +1,2 @@
 @charset 'utf-8';
-@mixin $red: '#ff0000';
+@mixin color-red { color: '#ff0000'; }
